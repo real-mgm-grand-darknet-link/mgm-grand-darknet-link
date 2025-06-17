@@ -53,4 +53,6 @@ This guide is provided strictly for educational and informational purposes only.
 
 
 
-Update:  16 June Fixed broken link, now live
+
+
+Update: Map links
