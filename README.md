@@ -59,4 +59,6 @@ This guide is provided strictly for educational and informational purposes only.
 
 
 
-Update:  06/23/2025 08-18 Fixed broken links in release notes archive
+
+
+Update:  06/24/2025 04-41-55 Just to let you know, the link is active again.
