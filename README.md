@@ -65,4 +65,6 @@ This guide is provided strictly for educational and informational purposes only.
 
 
 
-Update:  07/04/2025
+
+
+Update:  Monday 07 July 2025 Fixed broken links in license documentation
