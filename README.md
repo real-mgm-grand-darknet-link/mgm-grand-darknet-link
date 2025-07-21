@@ -71,4 +71,6 @@ This guide is provided strictly for educational and informational purposes only.
 
 
 
-Update:  18 July
+
+
+Update:  21.07.2025
