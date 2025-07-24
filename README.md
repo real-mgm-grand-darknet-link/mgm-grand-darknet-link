@@ -73,4 +73,6 @@ This guide is provided strictly for educational and informational purposes only.
 
 
 
-Update:  21.07.2025
+
+
+Update:  07/24/2025 Updated cloud provider reference URLs
